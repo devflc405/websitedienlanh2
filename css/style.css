@@ -665,7 +665,7 @@ img.img-responsive {
     padding: 15px;
 }
 .about-img-agileinfo {
-    background: url(../images/about.jpg)no-repeat 0px 0px;
+    background: url(../images/about-banner.jpg)no-repeat 0px 0px;
     border: 16px solid #000;
     background-size: cover;
     -webkit-background-size: cover;
@@ -737,7 +737,7 @@ p.para-agileits-w3layouts {
 	min-height:265px;
 }
 .img1{
-	background: url(../images/c7.jpg)no-repeat 0px 0px;
+	background: url(../images/mg.jpg)no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -745,7 +745,7 @@ p.para-agileits-w3layouts {
 	-ms-background-size:cover;
 }
 .img2{
-	background: url(../images/c1.jpg)no-repeat 0px 0px;
+	background: url(../images/dh.jpg)no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -753,7 +753,7 @@ p.para-agileits-w3layouts {
 	-ms-background-size:cover;
 }
 .img3{
-	background: url(../images/c6.jpg)no-repeat 0px 0px;
+	background: url(../images/tl.jpg)no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -761,7 +761,7 @@ p.para-agileits-w3layouts {
 	-ms-background-size:cover;
 }
 .img4{
-	background: url(../images/c5.jpg)no-repeat 0px 0px;
+	background: url(../images/bnl.jpg)no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -1250,8 +1250,9 @@ input.checkbox:checked:after {
 /*-- //checkbox --*/ 
 /*-- membership --*/
 .plan {
-    background: url(../images/member.jpg)no-repeat 0px 0px;
-    background-size: cover;
+    background: url(../images/background.png)no-repeat 0px 0px;
+	background-size: cover;
+	
     text-align: center;
     min-height: 16em;
     padding-top: 2em;

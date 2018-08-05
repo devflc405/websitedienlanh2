@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /admin
+Disallow: /user
+User-agent: rogerbot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Mata Hari
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows NT)
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows XP)
+Disallow: /
